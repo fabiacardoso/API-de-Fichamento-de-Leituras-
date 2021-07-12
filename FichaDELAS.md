@@ -1,6 +1,8 @@
-# FichaDELAS
+# FichaDELAS - API de Fichamento de Leituras
 
-## Projeto Final {reprograma} - BackEnd
+### API REST com NodeJs e JavaSript e MongoDB
+
+<br>
 
 # **PROBLEMA**
 
